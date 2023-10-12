@@ -20,8 +20,8 @@
 <a href="https://github.com/alexfalconflores/uwp-toolkit" alt="UWP Toolkit"> 
   <image src="https://raw.githubusercontent.com/alexfalconflores/uwp-toolkit/main/assets/uwp-toolkit-cover.png" height="80"/>
 </a>
-<a href="https://github.com/alexfalconflores/uwp-toolkit/tree/main/UWP%20Toolkit.Controls" alt="UWP Toolkit Controls"> 
-  <image src="https://raw.githubusercontent.com/alexfalconflores/uwp-toolkit/main/UWP%20Toolkit.Controls/assets/UWP%20Toolkit%20Controls%20-%20cover%20github%20-%20my%20library.png" height="80"/>
+<a href="https://github.com/alexfalconflores/uwp-toolkit-controls" alt="UWP Toolkit Controls"> 
+  <image src="https://raw.githubusercontent.com/alexfalconflores/uwp-toolkit-controls/main/assets/UWP%20Toolkit%20Controls%20-%20cover%20github%20-%20my%20library.png" height="80"/>
 </a>
 <a href="https://github.com/alexfalconflores/uwp-markup" alt="UWP Markup"> 
   <image src="https://raw.githubusercontent.com/alexfalconflores/uwp-markup/main/assets/UWP%20Markup-%20cover%20github%20-%20my%20library.jpg" height="80"/>
