@@ -15,6 +15,9 @@
 <a href="https://github.com/alexfalconflores/ranna" alt="Nokana"> 
   <image src="https://raw.githubusercontent.com/alexfalconflores/ranna/main/images/Ranna.png" width="56"/>
 </a>
+<a href="https://github.com/alexfalconflores/double-click-test" alt="Double Click Test"> 
+  <image src="https://raw.githubusercontent.com/alexfalconflores/double-click-test/main/assets/double-click-test.svg" width="56"/>
+</a>
 
 ## ⚒️ Open Source
 <a href="https://github.com/alexfalconflores/tiempo" alt="Tiempo"> 
