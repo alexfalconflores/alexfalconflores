@@ -4,6 +4,7 @@
 
 ## 🔥 Skills
 
+<p>
 <image src="img/skills/csharp.svg" width="56" alt="csharp" title="csharp"/>
 <image src="img/skills/dotnet.svg" width="56" alt="dotnet" title="dotnet"/>
 <image src="img/skills/winui.svg" width="56" alt="WinUI, UWP, WinAppSDK" title="WinUI, UWP, WinAppSDK"/>
@@ -39,14 +40,17 @@
 <a href="https://apps.microsoft.com/search/publisher?name=Alex+Falcon+Flores&hl=en-us&gl=PE" title="My Apps"> 
     <image src="img/skills/microsoft-store-light.svg" width="56" alt="Microsoft Store"/>
 </a>
+</p>
 
 ## 🔨 Tools
 
+<p>
 <image src="img/skills/visual-studio.svg" width="56" alt="Visual Studio" title="Visual Studio"/>
 <image src="img/skills/visual-studio-code-2019.svg" width="56" alt="Visual Studio Code" title="Visual Studio Code"/>
 <image src="img/skills/mac-finder.svg" width="56" alt="MacOS" title="MacOS"/>
 <image src="img/skills/windows-11.svg" width="56" alt="Windows 11" title="Windows 11"/>
 <image src="img/skills/terminal.svg" width="56" alt="Terminal" title="Terminal"/>
+</p>
 
 ## 💻 My apps
 
