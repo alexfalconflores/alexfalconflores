@@ -28,7 +28,8 @@
 </a>
 <image src="img/skills/mysql.svg" width="56" alt="MySql" title="MySql"/>
 <image src="img/skills/microsoft-sqlserver.svg" width="56" alt="SQL Server" title="SQL Server"/>
-<image src="img/skills/postgres.svg" width="56" alt="Postgres" title="Postgres"/>
+<image src="img/skills/postgres.svg" width="56" alt="Sqlite" title="Sqlite"/>
+<image src="img/skills/sqlite.svg" width="56" alt="Postgres" title="Postgres"/>
 <image src="img/skills/docker.svg" width="56" alt="Docker" title="Docker"/>
 <image src="img/skills/git.svg" width="56" alt="GIT" title="GIT"/>
 <image src="img/skills/python.svg" width="56" alt="Python" title="Python"/>
