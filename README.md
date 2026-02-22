@@ -67,6 +67,14 @@
 
 ## ⭐ Projects
 
+<a href="https://github.com/alexfalconflores/safe-fetch" title="safe fetch"> 
+  <image src="https://github.com/alexfalconflores/safe-fetch/blob/4fd0a9af158b69fa3bab5861ce13c552203845d9/logo.svg" width="80"/>
+</a>  
+
+<a href="https://github.com/alexfalconflores/better-url" title="Better URL"> 
+  <image src="https://github.com/alexfalconflores/better-url/blob/87e177f3c85b79299b7a6b8bbe3f0a7f342e77e8/logo.svg" width="80"/>
+</a>  
+
 <a href="https://github.com/alexfalconflores/tiempo" title="Tiempo"> 
   <image src="https://raw.githubusercontent.com/alexfalconflores/tiempo/main/assets/tiempo-cover.jpg" height="80"/>
 </a>      
